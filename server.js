@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 import express from 'express';
-import convertRouter from './src/routes/convert.js';
+import convertRouter from './routes/convert.js';
 
 dotenv.config();
 
