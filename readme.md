@@ -56,7 +56,7 @@ GET /convert
 
 ### Örnek İstek
 ```
-GET http://localhost:3000/convert?from=BTC&to=USDT&amount=1&API_KEY=A3gt!h56th
+GET http://localhost:3000/convert?from=BTC&to=USDT&amount=1&API_KEY=YOUR_API_KEY
 ```
 
 ### Örnek Yanıt
