@@ -1,6 +1,6 @@
 import { describe, it, expect } from '@jest/globals';
 import request from 'supertest';
-import app from '../src/server.js';
+import app from '../server.js';
 
 const API_KEY = '123456';
 
