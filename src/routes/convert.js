@@ -1,5 +1,5 @@
 import express from "express";
-import { getCoinPrice } from '../services/coinGeckoService.js';
+import { getCoinPrice } from '../services/coingeckoService.js';
 
 const router = express.Router();
 
